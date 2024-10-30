@@ -1,5 +1,5 @@
+Wykonac listę studentów i ja wyświetlić w zależności od ilosci studentów, odmiana wyrazu
 # BusinessApp
-
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.7.
 
 ## Development server
